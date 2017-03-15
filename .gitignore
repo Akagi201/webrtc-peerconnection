@@ -27,3 +27,6 @@
 *.exe
 *.out
 *.app
+
+/server/build
+/client/build
